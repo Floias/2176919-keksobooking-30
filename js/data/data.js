@@ -35,7 +35,7 @@ const sliderOptions = {
   step: 1,
 };
 
-const BASE_URL = 'https://30.javascript.pages.academy/keksobooking';
+const BASE_URL = 'https://30.javascript.htmlacademy.pro/keksobooking';
 
 const Route = {
   GET_DATA: '/data',
