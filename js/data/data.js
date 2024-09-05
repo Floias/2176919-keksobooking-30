@@ -2,7 +2,6 @@
 const MARKS = 10;
 const MAX_PRICE_HOUSING = 100000;
 const FILE_TYPES = ['.jpg', '.jpeg', '.png', '.webp'];
-
 const typeHousing = {
   flat: 'Квартира',
   bungalow: 'Бунгало',
